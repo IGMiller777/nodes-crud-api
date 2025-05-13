@@ -1,4 +1,25 @@
+# Dependency directories
 node_modules/
+
+# Build output
 dist/
-.DS_Store
+
+# Environment variables
+.env
+
+# Logs
+logs
 *.log
+npm-debug.log*
+
+# Coverage directory
+coverage/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
